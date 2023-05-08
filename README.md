@@ -15,4 +15,4 @@ I think that makes me gamedev :thinking:.
    
    <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
    <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <img align="RUST" alt="Java" width="70px" style="padding-right:10px;" src="https://www.rust-lang.org/logos/rust-logo-blk.svg"/>
+   <img align="RUST" alt="Java" width="65px" style="padding-right:10px;" src="https://www.rust-lang.org/logos/rust-logo-blk.svg"/>
