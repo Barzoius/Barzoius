@@ -2,7 +2,7 @@
 
 **`Beginner C++ and Rust enjoyer`**
 
-Not much yet to say about myself, I rly like C++/JAVA/RUST, physics and games. 
+Not much yet to say about myself, I rly like C++/JAVA/RUST, physics and games. \n
 I think that makes me gamedev :thinking:. 
 
    <p align="left">
