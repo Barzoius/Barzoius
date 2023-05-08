@@ -15,4 +15,16 @@ I think that makes me gamedev :thinking:.
    
    <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
   <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  
+---
+#
+
+### 📊 Stats
+
+![Barzoius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barzoiust&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+   
    
