@@ -6,6 +6,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
    <p align="left">
       <a href="https://www.linkedin.com/in/moisel-rares-936258268/">
-         <img alt="LINKEDIN" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="LINKEDIN" title="LINKEDIN" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       
    </p>
