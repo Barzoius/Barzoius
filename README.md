@@ -1,7 +1,8 @@
-# BARZOIUS(nickname :D) 
+# BARZOIUS
 
 **`Beginner C++ and Rust enjoyer`**
 
+Barzoius is a just a nickname :D.  
 Not much yet to say about myself, I rly like C++/JAVA/RUST, physics and games.  
 I think that makes me gamedev :thinking:. 
 
