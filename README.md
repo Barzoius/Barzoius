@@ -1,6 +1,6 @@
 # BARZOIUS
 
-**`Beginner C++ and Rust enjoyer`**
+**`C++ beginner and Rust enjoyer`**
 
 Barzoius is a just a nickname :D, my real name is Rareș.  
 Not much to say about myself yet, I rly like C++/JAVA/RUST and physics.
