@@ -19,6 +19,7 @@ Not much to say about myself yet, I rly like C++/JAVA/RUST and physics.
 
    
 ---
+
    ### Things I am learning
    
    <img align="left" alt="RUST" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
