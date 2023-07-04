@@ -19,8 +19,7 @@ Not much to say about myself yet, I rly like C++/JAVA/RUST and physics.
 
    
 ---
-
-
+<br>
 
    ### Things I am learning
    
