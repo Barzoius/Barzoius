@@ -3,7 +3,7 @@
 **`C++ enjoyer`**
 
 Barzoius is a just a nickname, my real name is Rareș.  
-Not much to say about myself yet, I rly like C++ and physics.
+Not much to say about myself yet, I like C++ and physics.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/moisel-rares-936258268/">
