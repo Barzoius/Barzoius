@@ -1,6 +1,6 @@
 # BARZOIUS
 
-**`C++ enjoyer 🛠`**
+**`C++ enthusiast 🛠`**
                                                                     
 Barzoius is just a nickname, my real name is Rareș.                            
 Not much to say about myself yet, I like C++ and physics.                           
