@@ -11,10 +11,12 @@ Not much to say yet, I like C++, graphics and physics.
    
 ---
    ###  Things I am learning:
-  <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-   <img align="left" alt="OpenGL" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
-   <img align="left" alt="OpenGL" width="70px" style="padding-right:10px;" src = "https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" />
-   <br><br><br>
+ <div style="display: flex; align-items: center;">
+    <img alt="C++" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="OpenGL" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
+    <img alt="DirectX" width="95px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" />
+</div>
+<br><br><br>
 
   
    
