@@ -13,7 +13,7 @@ Not much to say yet, I like C++, graphics and physics.
    ###  Things I am learning:
    <a>
     <img src="https://skillicons.dev/icons?i=cpp"/>
-    <img align="left" alt="OpenGL" width="70px" style="padding-right:1px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
   </a>
 
 
