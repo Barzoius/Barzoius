@@ -13,7 +13,7 @@ Not much to say yet, I like C++, graphics and physics.
    ###  Things I am learning:
   <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
    <img align="left" alt="OpenGL" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" /><br><br><br>
-   <img src = "https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg">
+   <img align="left" alt="OpenGL" width="70px" style="padding-right:10px;" src = "https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg">
 
   
    
