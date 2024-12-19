@@ -19,31 +19,3 @@ Not much to say yet, I like C++, graphics and physics.
 <br><br><br>
 
   
-   
-```mermaid
-graph TD
-    Drawable[Drawable]
-    Drawable --> Vector["VECTOR<Bindables>"]
-
-    Mesh[Mesh]
-    Drawable --> Mesh
-
-    subgraph Codex
-        Node1(( ))
-        Node2(( ))
-        Node3(( ))
-        Node4(( ))
-    end
-
-    Mesh --> Node1
-    Mesh --> Node2
-    Mesh --> Node3
-    Mesh --> Node4
-
-    Node1 -- Links --> Node2
-    Node1 -- Links --> Node3
-    Node1 -- Links --> Node4
-    Node2 -- Links --> Node3
-    Node2 -- Links --> Node4
-    Node3 -- Links --> Node4
-```
