@@ -10,12 +10,13 @@ Not much to say yet, I like C++, graphics and physics.
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
    
 ---
-| |  |
-|---|---|
-|  ![](imgs/SCENE_GRAPH2.png) | ![](imgs/instance2.png) |
 
 | |  |
 |---|---|
-|  ![](imgs/terrain2.png) | ![](imgs/march2.png) |
-<br><br><br>
+|  <img src="imgs/SCENE_GRAPH2.png" width="150" height="150"> | <img src="imgs/instance2.png" width="150" height="150"> |
+
+| |  |
+|---|---|
+|  <img src="imgs/march2.png" width="150" height="150"> | <img src="imgs/terrain2.png" width="150" height="150"> |
+
 
