@@ -8,9 +8,9 @@ Not much to say yet, I like C++, graphics and physics.
    
 ---
 
-| | | |
-|---|---|---|
-| [<img src="imgs/SCENE_GRAPH2.png" width="150" height="150">](https://github.com/Barzoius/GraphicsSandBox) | [<img src="imgs/instance2.png" width="150" height="150">](https://github.com/Barzoius/ToyGFX) | [<img src="imgs/GAME_ICON.png" width="150" height="150">](https://github.com/Barzoius/Throwaways) |
+| | | | |
+|---|---|---|---|
+| [<img src="imgs/SCENE_GRAPH2.png" width="150" height="150">](https://github.com/Barzoius/GraphicsSandBox) | [<img src="imgs/instance2.png" width="150" height="150">](https://github.com/Barzoius/ToyGFX) | [<img src="imgs/GAME_ICON.png" width="150" height="150">](https://github.com/Barzoius/Throwaways) | [<img src="imgs/licenta.png" width="150" height="150">](https://github.com/Barzoius/IsoSurfaceGen) |
 
 | | | | |
 |---|---|---|---|
