@@ -14,5 +14,5 @@ Not much to say yet, I like metaprogramming, graphics and physics.
 
 | | | | | |
 |---|---|---|---|---|
-| [<img src="imgs/march2.png" width="125" height="125">](https://github.com/Barzoius/RayMarcher) | [<img src="imgs/terrain2.png" width="125" height="125">](https://github.com/Barzoius/TERRAIN_GENERATION) |[<img src="imgs/bezier.png" width="125" height="125">](https://github.com/Barzoius/BezierCurves) |[<img src="imgs/station.png" width="125" height="125">](https://github.com/Barzoius/LostStation) |[<img src="imgs/RayT.png" width="125" height="125">](https://github.com/Barzoius/TheRayTracingWay) |
+| [<img src="imgs/march2.png" width="125" height="125">](https://github.com/Barzoius/RayMarcher) | [<img src="imgs/terrain2.png" width="125" height="125">](https://github.com/Barzoius/TERRAIN_GENERATION) |[<img src="imgs/bezier.png" width="125" height="125">](https://github.com/Barzoius/BezierCurves) |[<img src="imgs/station.png" width="125" height="125">](https://github.com/Barzoius/LostStation) |[<img src="imgs/Gamma.png" width="125" height="125">](https://github.com/Barzoius/TheRayTracingWay) |
 
